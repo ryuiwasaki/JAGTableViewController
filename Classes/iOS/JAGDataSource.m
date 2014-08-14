@@ -7,7 +7,6 @@
 //
 
 #import "JAGDataSource.h"
-#import "NSObject+JAGSerialize.h"
 
 @interface JAGDataSource ()
 
