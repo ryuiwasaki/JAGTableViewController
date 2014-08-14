@@ -7,7 +7,7 @@
 //
 
 #import "JAGDataSource.h"
-
+#import <JAGSerialize/NSObject+JAGSerialize.h>
 @interface JAGDataSource ()
 
 @property ( nonatomic , readwrite ) NSMutableArray *dataSource;
