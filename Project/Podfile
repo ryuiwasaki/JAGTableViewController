@@ -1,0 +1,2 @@
+platform :ios,'7.0'
+pod 'JAGSerialize', :git => 'https://github.com/ryuiwasaki/JAGSerialize.git'

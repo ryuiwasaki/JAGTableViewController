@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>14A3E0EB-41E7-4B91-BD08-5A53C4EC9F3F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JAGTableViewController</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BE091950-6A1A-408B-B0FA-81A7C70D0D5D</key>
+		<string>https://github.com/ryuiwasaki/JAGTableViewController</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Project/JAGTableViewController.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BE091950-6A1A-408B-B0FA-81A7C70D0D5D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ryuiwasaki/JAGTableViewController</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BE091950-6A1A-408B-B0FA-81A7C70D0D5D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE091950-6A1A-408B-B0FA-81A7C70D0D5D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JAGTableViewController</string>
+		</dict>
+	</array>
+</dict>
+</plist>

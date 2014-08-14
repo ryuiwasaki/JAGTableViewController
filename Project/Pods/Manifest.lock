@@ -1,0 +1,14 @@
+PODS:
+  - JAGSerialize (1.0.0)
+
+DEPENDENCIES:
+  - JAGSerialize (from `https://github.com/ryuiwasaki/JAGSerialize.git`)
+
+EXTERNAL SOURCES:
+  JAGSerialize:
+    :git: https://github.com/ryuiwasaki/JAGSerialize.git
+
+SPEC CHECKSUMS:
+  JAGSerialize: 68a517f3766db7fd05007fd54144196c656e8342
+
+COCOAPODS: 0.33.1
